@@ -1,0 +1,38 @@
+[START_CONFERENCES]						
+Premier League	South	North				
+Championship	East	West				
+League 1	North	South				
+League 2	North	South				
+National Conference	East	West				
+National North	North	West				
+National South	South	West				
+Northern Premier	North	West				
+Southern Central	Central	West				
+Ryman Premier	A	B				
+Sunday League	Indy	Indy				
+[END_CONFERENCES]						
+[START_TEAMS]						
+Arsenal	ARS	Premier League	83	South	0	
+Bournemouth	BOU	Premier League	76	South	0	
+Brighton	BHA	Premier League	76	South	0	
+Burnley	BUR	Premier League	77	North	0	
+Cardiff 	CAR	Premier League	73	South	0	
+Chelsea	CHE	Premier League	83	South	0	
+Crystal Palace	CRY	Premier League	77	South	0	
+Everton	EVE	Premier League	79	North	0	
+Fulham	FUL	Premier League	75	South	0	
+Huddersfield	HUD	Premier League	74	North	0	
+Leicester	LEI	Premier League	79	North	0	
+Liverpool	LIV	Premier League	82	North	0	
+Man City	MNC	Premier League	85	North	0	
+Man United	MNU	Premier League	82	North	0	
+Newcastle	NEW	Premier League	76	North	0	
+Southampton	SOU 	Premier League	77	South	0	
+Tottenham	TOT	Premier League	85	South	0	
+Watford	WAT	Premier League	77	South	0	
+West Ham	WHA	Premier League	78	South	0	
+Wolves	WOL	Premier League	76	North	0	
+[END-CONF]						
+[END_TEAMS]						
+Rose Bowl	Orange Bowl	Sugar Bowl	Fiesta Bowl	Peach Bowl	Cotton Bowl	Citrus Bowl
+[END_BOWL_NAMES]						
